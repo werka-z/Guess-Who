@@ -1,9 +1,11 @@
-import Link from 'next/link';
+import Link from "next/link";
+import GameForm from "./game-form/page";
 
-export default function JoinGame(){
+export default function JoinGame() {
   return (
     <main>
-      <Link href="/game-prep"><button>enter a 5-digit code and proceed to game</button></Link>
+      <h1>enter a 4-digit code and proceed to game</h1>
+      <GameForm />
     </main>
   );
 }
