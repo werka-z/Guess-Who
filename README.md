@@ -3,7 +3,7 @@ A customizable digital Guess Who game, featuring unique user profiles and a dyna
 
 ### Tech stack
 * **React & Next.js** - reactive UI and efficient rendering for smooth app performance
-* **Firebase** - secure data handling, authentication (including easy Google sign-ups), real-time database for storing user and game information
+* **Firebase** - secure data handling, easy authentication, real-time database for storing user and game information
 
 ### Profile setup
 Users can create personalized profiles, with an option to sign up using Google. Profiles enable players to save their favorite character sets, track game history, and connect with other players.
