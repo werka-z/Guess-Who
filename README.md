@@ -25,7 +25,7 @@ The game begins when one player creates a session, generating a unique code that
     3. game code generation
 -  [ ] advanced game logic
     1. joining a game with the code
-    2. ‘game prep’ logic - 
+    2. ‘game prep’ logic
     3. real time updates
 -  [ ] enhancements and testing
     1. UI/UX - based on feedback
